@@ -83,3 +83,5 @@ renders/cache/
 *.zip
 *.7z
 *.rar
+
+*/model-files
